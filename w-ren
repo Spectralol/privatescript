@@ -35,7 +35,7 @@ if hwid and whitelisted_HWIDs[hwid] then
     -- Show a special notification to the whitelisted user
     game.StarterGui:SetCore("SendNotification", {
         Title = "Private Access",
-        Text = "Welcome, Spectra user!",
+        Text = "Welcome, Ren!",
         Duration = 5
     })
 else

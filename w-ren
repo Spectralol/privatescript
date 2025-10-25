@@ -1,6 +1,6 @@
 local whitelisted_HWIDs = {
     ["b3bdf5d109ea03434422bbe5185740682cff4a5f3c975137e58a65b30dd142c9"] = true,
-    [""] = true,
+    ["1deccee4db2440c8f7e3d5acf6e55c051b603a9fc68950db1b46fd2fa73648ee"] = true,
     [""] = true,
     [""] = true,
     [""] = true,

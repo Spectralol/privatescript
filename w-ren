@@ -305,7 +305,7 @@ local blockedFrames = {
     "goodKarmaFrame"
 }
 
-local frameSwitch = MainTab:AddSwitch("Background Cleaner", function(bool)
+local frameSwitch = MainTab:AddSwitch("Hide frames", function(bool)
     if bool then
         -- Frames ausblenden
         for _, name in ipairs(blockedFrames) do
